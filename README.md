@@ -1,1 +1,2 @@
-# my-project
+- [Preview](https://budnikoleksii.github.io/my-project/)
+- [Pull Request](https://github.com/BudnikOleksii/my-project/pull/1/files)
